@@ -1,11 +1,11 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Akhilkumar272002/Akhilkumar272002/blob/main/images/hi,%20i'm%20akhil%20(1280%20%C3%97%20680px)%20(1280%20%C3%97%20640px).png?raw=true" width="1000" height="450"/>
+<img src="https://github.com/Akhilkumar272002/Akhilkumar272002/blob/main/images/headerImg.png" width="1000" height="450"/>
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/Akhilkumar272002/akhilkumarstats"/> 
+ <img src="https://badges.pufler.dev/visits/Akhilkumar272002/Akhilkumar272002"/> 
  <!-- <img src="https://badges.pufler.dev/years/Akhilkumar272002"/> -->
  <img src="https://badges.pufler.dev/repos/Akhilkumar272002"/>
  <img src="https://badges.pufler.dev/commits/monthly/Akhilkumar272002" />
