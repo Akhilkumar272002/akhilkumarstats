@@ -1,77 +1,74 @@
-<p align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Akhilkumar272002.Akhilkumar272002" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Akhil+Kumar!;" />
+</h1>
+
+<h3 align="center">A passionate Software Developement Engineer</h3>
+
+<br/>
+
+<div align="center">
  
-</p align="center">
-<img src="https://github.com/Akhilkumar272002/Akhilkumar272002/blob/main/images/headerImg.png" width="1000" height="450"/>
-
-<p align="center">
+ 🔭 I’m currently looking for oppurtunities to showcase my skills
  
- <img src="https://badges.pufler.dev/visits/Akhilkumar272002/Akhilkumar272002"/> 
- <!-- <img src="https://badges.pufler.dev/years/Akhilkumar272002"/> -->
- <img src="https://badges.pufler.dev/repos/Akhilkumar272002"/>
- <img src="https://badges.pufler.dev/commits/monthly/Akhilkumar272002" />
+ 🌱 Work Experience: Software Engineer at Karuviyan Innovatives and Software Project Trainee at Zoho Corporation
 
-</p>
+💬 You can connect me out through Linkedin **[here](https://www.linkedin.com/in/akhilkumarst/)**
 
- <p align="center">
-  I'm a Graduate of Electrical and Electronics 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨👨🏻‍💻. I'm deep into Web 🕸 Development and IOT (Internet of Things)💡.
-</p>   
+⚡ Fun: **Debugging = Removing the needles from the haystack 😄🐞**
 
-<h2 align="center">Technology Stack <img src="https://github.com/Akhilkumar272002/akhilkumarstats/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="center">
- <img src="https://img.shields.io/badge/python-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/-netlify-430098?style=flat-square&logo=netlify"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-E34F26?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
-
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-<a href="mailto: akhilkumar272002@gmail.com">
- <img src="https://img.shields.io/badge/-Akhilkumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilkumar272002@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/s-t-akhil-kumar/">
- <img src="https://img.shields.io/badge/-Akhilkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-t-akhil-kumar"/>
-</a>
- <a href="https://twitter.com">
- <img src="https://img.shields.io/badge/-Akhilkumar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com"/>
-</a>
-</p>
-
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="45" >
-</h2>
-<p align="center">
-  <img src="https://github.com/Akhilkumar272002/akhilkumarstats/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+ </div>
  
+<div align="center"> 
+  <a href="mailto:akhilkumar272002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/akhilkumarst/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://akhilkumarst.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+     <img src="https://skillicons.dev/icons?i=python,javascript,c,react,html,css,tailwind,bootstrap,nodejs,express,django,flask" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,jenkins,pycharm,vscode,figma" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akhilkumar272002/Akhilkumar272002/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-tau-snowy.vercel.app?user=Akhilkumar272002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Akhilkumar272002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilkumar272002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Akhilkumar272002&show_icons=true&theme=radical&line_height=27"><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilkumar272002&hide=java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+<br/><br/>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilkumar272002&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<hr/>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Akhilkumar272002&theme=redical">
-</p> 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<br/>
+
+<h2 align="center">Thank You! 👹</h2>
+
+<br/>
